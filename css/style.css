@@ -503,7 +503,7 @@ textarea.input {
 .pr-button.tuchoi-button
 {
      background-color: red;
-     width: 50%;
+     width: 50%;    
 }
  .pr-button:hover,.pr-button:focus {
      color: #fff;
